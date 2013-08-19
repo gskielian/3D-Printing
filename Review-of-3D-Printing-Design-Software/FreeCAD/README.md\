@@ -12,4 +12,9 @@ For this first project we will make a puck for an Air-Hockey Table.
 ### Open the Python Console
 
 In the menu go to View -> Views -> Python Console to gain python access to control the CAD.
+
+### Make a 2D Circle
 ```python
+import Draft
+myCircle = Draft.makeCircle(10)
+```
