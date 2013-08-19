@@ -4,11 +4,11 @@ ABS || PLA
 The question is ABS or PLA, you will find that there are situations where both work too.
 
 # Quick Facts
-*ABS* - acrylonitrile butadiene styrene
+**ABS** - acrylonitrile butadiene styrene
 
-*PLA* - Polylactic acid
+**PLA** - Polylactic acid
 
-*HDPE* - high-density polyethylene
+**HDPE** - high-density polyethylene
 
 ## Comparison and contrast
 
