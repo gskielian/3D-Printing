@@ -11,10 +11,10 @@ Click on the Activity for Curriculum on the Topic
 | [Make your own Chess Set](2)      | Entry-Level |  placeholder |
 | [Robot Arm Chassis](3)   | Advanced   |  placeholder |
 | [Make a Chain](4) | Entry-Level |  placeholder |
-| [Make a Statue](5) |  |   |  
-| Make a Landmark | | |
-| Make a Robot Chassis |  | |
-| Make A GearBox For a Servo |  | |  
+| [Make a Statue](5) | Advanced | placeholder  |  
+| [Make a Landmark](6) | | |
+| [Make a Robot Chassis](7) |  | |
+| [Make A GearBox For a Servo](8) |  | |  
 
 
 Vote and Review your favorite projects [here](9001);
@@ -24,3 +24,5 @@ Online app -- How much extrusion material do I have left?
 3D Printer Calculator
 
 (amount of extrusion material needed is kept inside the curriculums)
+
+Feel free to connect to the recommended series of projects linked at the last part of the curriculum :smiley:
