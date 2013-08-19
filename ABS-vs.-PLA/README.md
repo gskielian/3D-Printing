@@ -1,5 +1,5 @@
-ABS || PLA
-==========
+ABS || PLA || HDPE || 
+==========================
 
 The question is ABS or PLA, you will find that there are situations where both work too.
 
@@ -9,6 +9,7 @@ The question is ABS or PLA, you will find that there are situations where both w
 **PLA** - Polylactic acid
 
 **HDPE** - high-density polyethylene
+
 
 ## Comparison and contrast
 
