@@ -18,6 +18,9 @@ Click on the Activity for Curriculum on the Topic
 | [Print a Cuvette Holder](9) | | |
 | [Print a Spectrometer](10) | | |
 | [Print an Ultrasonic Holster](11) |  | |
+| [Print a Raspberry Pi Case](12) | | |
+| [Print an Arduino Case](13)  | | |
+| [Print a Guitar Pick](14)  | | |
 
 
 
