@@ -1,0 +1,15 @@
+FreeCAD
+===
+
+
+
+## Hello FreeCAD
+
+For this first project we will make a puck for an Air-Hockey Table.
+
+
+
+### Open the Python Console
+
+In the menu go to View -> Views -> Python Console to gain python access to control the CAD.
+```python
