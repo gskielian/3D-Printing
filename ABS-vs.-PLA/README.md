@@ -10,6 +10,7 @@ The question is ABS or PLA, you will find that there are situations where both w
 
 **HDPE** - high-density polyethylene
 
+**PVA** - polyvinyl alcohol
 
 ## Comparison and contrast
 
