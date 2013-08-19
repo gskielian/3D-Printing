@@ -1,14 +1,20 @@
-Activities
-==========
+Activities List
+===============
+
+
+Click on the Activity for Curriculum on the Topic
 
 
 | Activities    | Difficulty    | Time  |
 | ------------- |:-------------:| -----:|
-| Make a stamp      | Novice | placeholder |
-| Make your own Chess Set      | Entry-Level |  placeholder |
-| Robot Arm Chassis   | Advanced   |  placeholder |
-| Make a Chain | Entry-Level |  placeholder |
-| Make a Statue |  |   |  
+| [Make a stamp](1)      | Novice | placeholder |
+| [Make your own Chess Set](2)      | Entry-Level |  placeholder |
+| [Robot Arm Chassis](3)   | Advanced   |  placeholder |
+| [Make a Chain](4) | Entry-Level |  placeholder |
+| [Make a Statue](5) |  |   |  
 | Make a Landmark | | |
 | Make a Robot Chassis |  | |
 | Make A GearBox For a Servo |  | |  
+
+
+Vote and Review your favorite projects [here](9001);
