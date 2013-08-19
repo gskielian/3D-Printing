@@ -3,6 +3,11 @@ ABS || PLA
 
 The question is ABS or PLA, you will find that there are situations where both work too.
 
+# Quick Facts
+*ABS* - acrylonitrile butadiene styrene
+*PLA* - Polylactic acid
+
+
 ## Comparison and contrast
 
 
