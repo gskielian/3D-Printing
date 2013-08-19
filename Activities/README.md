@@ -17,7 +17,7 @@ Click on the Activity for Curriculum on the Topic
 | [Make A GearBox For a Servo](8) |  | |  
 
 
-Vote and Review your favorite projects [here](9001);
+Vote and Review your favorite projects [here](9001)
 
 
 Online app -- How much extrusion material do I have left?
