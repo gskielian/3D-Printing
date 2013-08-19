@@ -15,6 +15,10 @@ Click on the Activity for Curriculum on the Topic
 | [Make a Landmark](6) | | |
 | [Make a Robot Chassis](7) |  | |
 | [Make A GearBox For a Servo](8) |  | |  
+| [Print a Cuvette Holder](9) | | |
+| [Print a Spectrometer](10) | | |
+| [Print an Ultrasonic Holster](11) |  | |
+
 
 
 Vote and Review your favorite projects [here](9001)
