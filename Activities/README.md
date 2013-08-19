@@ -21,6 +21,7 @@ Click on the Activity for Curriculum on the Topic
 | [Print a Raspberry Pi Case](12) | | |
 | [Print an Arduino Case](13)  | | |
 | [Print a Guitar Pick](14)  | | |
+| [Print an Air Hockey Puck](15) | Beginner | | 
 
 
 
