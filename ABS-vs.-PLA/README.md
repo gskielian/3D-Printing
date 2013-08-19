@@ -5,8 +5,10 @@ The question is ABS or PLA, you will find that there are situations where both w
 
 # Quick Facts
 *ABS* - acrylonitrile butadiene styrene
+
 *PLA* - Polylactic acid
 
+*HDPE* - high-density polyethylene
 
 ## Comparison and contrast
 
