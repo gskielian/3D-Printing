@@ -19,14 +19,14 @@ In the menu go to View -> Views -> Python Console to gain python access to contr
 ```python
 import Part
 
-myCircle = Part.makeCircle(10)
-Part.show(myCircle)
+myBox = Part.makeBox(5,5,5)
+Part.show(myBox)
 ```
 
 
 
 <p align="center">
-<img src="http://i1347.photobucket.com/albums/p711/gregorykielian/ScreenShot2013-08-18at101951PM_zpsd4baa5fa.png">
+<img src="http://i1347.photobucket.com/albums/p711/gregorykielian/ScreenShot2013-08-18at111112PM_zps8fb95f89.png?t=1376892714">
 </p>
 
 
