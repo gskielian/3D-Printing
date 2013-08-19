@@ -1,3 +1,7 @@
+Activities
+==========
+
+
 | Activities    | Difficulty    | Time  |
 | ------------- |:-------------:| -----:|
 | Make a stamp      | Novice | placeholder |
