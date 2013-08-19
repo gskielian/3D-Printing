@@ -1,8 +1,9 @@
 ABS || PLA
 ==========
 
+The question is ABS or PLA, you will find that there are situations where both work too.
 
-Comparison and contrast
+## Comparison and contrast
 
 
 | Benchmark |  ABS    | PLA  |
