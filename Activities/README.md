@@ -18,3 +18,9 @@ Click on the Activity for Curriculum on the Topic
 
 
 Vote and Review your favorite projects [here](9001);
+
+
+Online app -- How much extrusion material do I have left?
+3D Printer Calculator
+
+(amount of extrusion material needed is kept inside the curriculums)
