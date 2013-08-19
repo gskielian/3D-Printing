@@ -22,6 +22,8 @@ Click on the Activity for Curriculum on the Topic
 | [Print an Arduino Case](13)  | | |
 | [Print a Guitar Pick](14)  | | |
 | [Print an Air Hockey Puck](15) | Beginner | | 
+| [Make a cell phone stand](16) | Beginner | |
+| [Make a cell phone case](17) | Advanced |  |
 
 
 
