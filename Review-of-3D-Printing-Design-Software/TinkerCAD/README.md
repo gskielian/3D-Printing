@@ -11,6 +11,7 @@ You can use TinkerCAD directly from your browser without having to install new s
 
 Choose Your Path:
 
+* Create Basic Shapes ( 3 minutes )
+* Combine Shapes to make a Robot Sculpture
+* [Your Name + Approved ] Stamp
 * 
-*
-*
