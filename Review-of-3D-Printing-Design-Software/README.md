@@ -4,15 +4,15 @@ Rankings
 
 ## Some Options Reviewed:
 * [TinkerCAD](#tinkercad)
-* FreeCAD
-* 3dTin
-* Maya
+* [FreeCAD](#FreeCAD)
+* [3dTin](#3dtin)
+* [Maya](#
 * OpenSCAD
 * Google Sketchup
 
 ## Reviews:
 
-### Google Sketchup
+### <span id="googlesketchup"> Google Sketchup </span>
 
 * 
 
