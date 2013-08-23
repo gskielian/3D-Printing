@@ -1,4 +1,4 @@
-Quick Fixes
+Quick Fixes for 3D printer Problems
 ==============================
 
 How to fix some problems which may occur while 3D printing:
