@@ -9,7 +9,7 @@ You
 
 ### Workflow OverView:
 
-`3D Tin Design/Save/Export` -> `MakerWare` -> `SD Card` -> `Print`
+`3D Tin Design/Save/Export` -> `MakerWare scale/print-settings` -> `SD Card` -> `Print`
 
 
 
