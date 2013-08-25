@@ -5,7 +5,13 @@
 
 In order to export to .stl, you will first need to login (which requires email address), but the trade-off is that you will for example, be able to utilize automatic text-generation to make custom stamps/logos.
 
-You 
+You
+
+### Workflow OverView:
+
+`3D Tin Design/Save/Export` -> `MakerWare` -> `SD Card` -> `Print`
+
+
 
 
 
