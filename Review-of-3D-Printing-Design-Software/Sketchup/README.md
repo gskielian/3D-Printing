@@ -11,7 +11,7 @@ This is a relatively easy program to use for 3D printing and 3D modeling alike.
  
 **no linux : (**
 
-#### Workflow
+#### Workflows
 
 `Sketchup Make Design/Export` -> `MakerWare Scale/Send-to-SD` -> `3D Print`
 
@@ -28,7 +28,8 @@ http://www.sketchup.com/download
 Then open it and install the program.
 
 
-#### Next we need to get a way
+#### Sketchup-to-STL
 
+You need 
 
 https://github.com/SketchUp/sketchup-stl
