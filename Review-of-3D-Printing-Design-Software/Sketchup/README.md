@@ -9,7 +9,7 @@ This is a relatively easy program to use for 3D printing and 3D modeling alike.
 * Mac
 * Windows
  
- **no linux : (**
+**no linux : (**
 
 
 #### Download && Installation
