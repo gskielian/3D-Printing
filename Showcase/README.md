@@ -1,6 +1,6 @@
 View Some Examples From Our Front Desk
 ===
 
-Click on any of the `.stl` files above to view them via your browser.
+Click on any of the `.stl` files below to view them via your browser.
 
-1. (TechLab Stamp)[TechLab.stl]
+1. [TechLab Stamp]echLabStamp3.stl)
