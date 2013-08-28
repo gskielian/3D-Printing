@@ -7,8 +7,11 @@ How to fix some problems which may occur while 3D printing:
   * Things to try:
      * Reduce the Temperature of the extruder to around 220 deg C if you are using PLA (which you should be)
      * Reduce the Speed of the extruder in general (we've had success with bringing the speed down to around 30.0 mm per second)
-     * Tape the
+     * Pause the object half-way and literally tape it down.
      * Get Capton Tape and place this on top of the build-platform (place pic of capton tape here)
      * Build or purchase a heated platform -- this will reduce the strain in your 3D-object so it doesn't buckle as much due to the temperature difference.
 2. The capton tape (caramel tape) around your nozzle is falling off
   * Don't panic, but accurately and thoroughly remove the tape (you may want to get it replaced the next time you get your machine serviced).  This happened to our machine, and it does appear to work without the tape, but we should still have it replaced eventually. 
+
+3. Your 3D print sticks too much to the platform
+  * try placing blue-painters tape over the area where the delicate regions are, and make sure the raft can get a good grip onto the platform (the thickness of the tape hasn't caused distortions for me while using the MakerBot Replicator 2).
