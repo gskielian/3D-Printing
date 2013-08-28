@@ -7,10 +7,11 @@ Click on the Activity for Curriculum on the Topic
 
 | Activities    | Difficulty    | Time  |
 | ------------- |:-------------:| -----:|
-| [Make a stamp](1)      | Novice | placeholder |
-| [Make Dice with FreeCAD](100) | Novice | 12 minutes |
-| [Make your own Chess Set](2)      | Entry-Level |  placeholder |
+| [Make a stamp](./Curriculums/MakeAStamp/README.md)      | Novice | placeholder |
+| [Make Dice with FreeCAD](./Curriculums/MakeDice/README.md) | Novice | 12 minutes |
+| [Make your custom Chess Piece](2)      | Entry-Level |  placeholder |
 | [Robot Arm Chassis](3)   | Advanced   |  placeholder |
+| [Make an LED flashlight](4) | Advancd | placeholder |
 | [Make a Chain](4) | Entry-Level |  placeholder |
 | [Make a Statue](5) | Advanced | placeholder  |  
 | [Make a Landmark](6) | | |
