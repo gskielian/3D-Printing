@@ -5,7 +5,7 @@ With a coin-cell and some soldering you will be able to create a variety of awes
 
 
 
-### Inspiration for LED + CoinCell
+### Inspirations for LED + CoinCell
 
 
 
