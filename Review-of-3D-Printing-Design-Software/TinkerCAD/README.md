@@ -30,9 +30,7 @@ Choose Your Path:
 
 ## First project  -- choose two of the following
 * Make a solar cooker
- 
 * Make a Dice
-
 * Make a Stamp
 
 Value: To show the value of different elementary shapes
@@ -40,9 +38,7 @@ Value: To show the value of different elementary shapes
 ## Second project -- choose two of the following
 
 * Make a Creeper
-
 * Make a Chess Piece
-
 * Make some lego bricks
 
 Value: How to add and subtract objects, and working with creating them using 3D printers
@@ -53,9 +49,7 @@ Value: How to add and subtract objects, and working with creating them using 3D 
 * Buttons
 * Spring Hinges
 
-
 ## Gears project
-
 
 ## Servo Attachments
 
@@ -63,4 +57,4 @@ Value: How to add and subtract objects, and working with creating them using 3D 
 
 ## Buttons
 
-##
+## 3D Scanning
