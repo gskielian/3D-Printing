@@ -31,7 +31,7 @@ Choose Your Path:
 ## First project  -- choose two of the following
 * Make a solar cooker
 * Make a Dice
-* Make a 
+* Make a Pokeball
 
 Value: To show the value of different elementary shapes
 
@@ -40,7 +40,9 @@ Value: To show the value of different elementary shapes
 * Make a Creeper
 * Make a Chess Piece
 * Make a Stamp
-* Make some lego bricks
+* Make a Piggy Bank
+* Make Lego bricks
+* Make a Boat!
 
 Value: How to add and subtract objects, and working with creating them using 3D printers
 
@@ -52,11 +54,11 @@ Value: How to add and subtract objects, and working with creating them using 3D 
 
 ## Gears project
 
-## Servo Attachments
+## Servo && Motor Attachments
 
-*Make Wheels
-*Robot Chassis
-*
+* Make Wheels
+* Robot Chassis
+* 
 
 ## LED fixtures
 
@@ -66,4 +68,24 @@ Value: How to add and subtract objects, and working with creating them using 3D 
 
 ## Springs 
 
+## Keychain
+
+* creeper keychain
+* Bike Handle Bar
+* ring
+* 
+
+## Molecule models
+
+## Glasses
+
+## Custom Potentiometer knobs
+
+## Make a Hex Nut and Bolt
+
+## Make a hinge
+
+## Camera Mount
+
 ## 
+
