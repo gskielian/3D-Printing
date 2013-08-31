@@ -8,6 +8,13 @@ Workflow:
 You can use TinkerCAD directly from your browser without having to install new software.
 
 
+## Mouse Usage:
+
+`right click` - allows you to orbit
+`shift + right click` - Pan
+`
+
+
 
 Choose Your Path:
 
@@ -15,3 +22,7 @@ Choose Your Path:
 * Combine Shapes to make a Robot Sculpture
 * [Your Name + Approved ] Stamp
 * ...more to come
+
+
+## First project
+* Make a solar cooker
