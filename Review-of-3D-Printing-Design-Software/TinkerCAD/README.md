@@ -12,7 +12,10 @@ You can use TinkerCAD directly from your browser without having to install new s
 
 `right click` - allows you to orbit
 `shift + right click` - Pan
-`
+
+## Hot Keys:
+
+http://blog.tinkercad.com/keyboard-shortcuts/
 
 
 
