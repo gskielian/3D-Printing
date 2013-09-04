@@ -1,7 +1,7 @@
 // Credits to Elkniwt for design https://tinkercad.com/users/56XAnSz2Njk/
 // i added some comments to guide my students/friends through the code
 
-*The Params decide what is displayed in the menu when you create your own custom shape*/
+/*The Params decide what is displayed in the menu when you create your own custom shape*/
 params = [
   { "id": "ID", "displayName": "Inner Diameter", "type": "float", "rangeMin": 1, "rangeMax": 100, "default": 4.0 },
   { "id": "OD", "displayName": "Outer Diameter", "type": "float", "rangeMin": 1, "rangeMax": 100, "default": 20.0 }
