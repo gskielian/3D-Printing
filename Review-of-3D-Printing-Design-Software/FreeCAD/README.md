@@ -38,7 +38,7 @@ from FreeCAD import Base
 
 myCircle = Part.makeCircle(10)
 Part.show(myCircle)
-myCyl = myCircle.extrude(Base.Vector(0,0,10)
+myCyl = myCircle.extrude(Base.Vector(0,0,10))
 Part.show(myCyl)
 ```
 
