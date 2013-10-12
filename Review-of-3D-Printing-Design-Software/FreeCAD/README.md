@@ -15,7 +15,7 @@ In the menu go to View -> Views -> Python Console to gain python access to contr
 
 
 
-### Make a 2D Circle
+### Make a Box
 ```python
 import Part
 
